@@ -7,8 +7,7 @@ assignees: ht0324, Aprilistic
 
 ---
 
-This is the audio transcription of the discussion we had about "Training Large Language Models to Reason in a
-Continuous Latent Space". Please go through the transcript and summarize key findings and discussions using this template. The summary should be concise and straightforward, relevant to our discussion. :
+This is the audio transcription of the discussion we had about a paper we discussed today. Please go through the transcript and summarize key findings and discussions using this template. The summary should be concise and straightforward, relevant to our discussion. :
 
 """# Paper Reading Study Notes
 

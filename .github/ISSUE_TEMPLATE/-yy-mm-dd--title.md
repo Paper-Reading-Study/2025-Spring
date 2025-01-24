@@ -1,7 +1,7 @@
 ---
-name: "[YY.MM.DD] Title"
+name: "Paper Discussion Summary"
 about: 'Paper discussion '
-title: ''
+title: '[YY.MM.DD] Title'
 labels: meeting
 assignees: ht0324, Aprilistic
 

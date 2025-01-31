@@ -1,5 +1,5 @@
 ---
-name: "Paper Discussion Summary"
+name: "Discussion Summary"
 about: 'Paper discussion '
 title: '[YY.MM.DD] Title'
 labels: meeting
@@ -7,7 +7,8 @@ assignees: ht0324, Aprilistic
 
 ---
 
-This is the audio transcription of the discussion we had about a paper we discussed today. Please go through the transcript and summarize key findings and discussions using this template. The summary should be concise and straightforward, relevant to our discussion. :
+The attachments include the paper and a transcription of its discussion. Please go through the transcript and summarize key findings and discussions using this template. The summary should be concise and straightforward, relevant to our discussion. :
+
 
 """# Paper Reading Study Notes
 

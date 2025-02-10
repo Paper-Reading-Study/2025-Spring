@@ -2,9 +2,11 @@
 
 
 ## Feb 2025
-Up Next: RoFormer: Enhanced Transformer with Rotary Position Embedding
 
---- 
+### Up Next:
+- [ ] RoFormer: Enhanced Transformer with Rotary Position Embedding
+
+### Completed:
 - [x] Mamba: Linear-Time Sequence Modeling with Selective State Spaces  
 - [x] Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)  
 - [x] Learning Transferable Visual Models From Natural Language Supervision (CLIP)

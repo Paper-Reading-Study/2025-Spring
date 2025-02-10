@@ -1,5 +1,6 @@
 # 2025-Spring
 
+Our study logs of paper discussions, traked in `issues`.
 
 ## Feb 2025
 

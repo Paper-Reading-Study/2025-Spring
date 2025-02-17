@@ -5,9 +5,11 @@ Our study logs of paper discussions, traked in `issues`.
 ## Feb 2025
 
 ### Up Next:
-- [ ] RoFormer: Enhanced Transformer with Rotary Position Embedding
+- [ ]
 
 ### Completed:
+- [x] Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+- [x] RoFormer: Enhanced Transformer with Rotary Position Embedding
 - [x] Mamba: Linear-Time Sequence Modeling with Selective State Spaces  
 - [x] Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)  
 - [x] Learning Transferable Visual Models From Natural Language Supervision (CLIP)

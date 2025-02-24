@@ -5,10 +5,11 @@ Our study logs of paper discussions, traked in `issues`.
 ## Feb 2025
 
 ### Up Next:
+- [ ] Generative Adversarial Nets
 
-- [ ] Auto-Encoding Variational Bayes (VAE)
 
 ### Completed:
+- [x] Auto-Encoding Variational Bayes (VAE)
 - [x] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - [x] Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [x] RoFormer: Enhanced Transformer with Rotary Position Embedding
